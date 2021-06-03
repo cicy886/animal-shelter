@@ -6,3 +6,7 @@ img{
   width: 300px;
   height: auto;
 }
+.column {
+  width: 300px;
+  float: left;
+}
